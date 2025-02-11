@@ -20,10 +20,11 @@
   </style>
 
   <script>
+    var elem = document.documentElement;
     document.onclick = function(){
     openFullscreen()
+    elem.requestPointerLock();
 };
-    var elem = document.documentElement;
 
 /* View in fullscreen */
 function openFullscreen() {
