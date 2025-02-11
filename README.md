@@ -1,2 +1,3 @@
-# a-black-screen
-just a blackscreen but better
+# A Black Scree
+ its just a blackscreen but better
+ with mouselock and fullscreen
